@@ -1,0 +1,19 @@
+1. Do some basic styling for the app.(* like patterns etc)
+
+2. First make 4 string variables namely upperCase, lowerCase, numbers, specialCharacters and
+   store strings in them according to their respective names.
+
+3. Ask the user for the length of the password the length should be 8 or greater than it.
+
+4. Ask the strength for the password (normal, strong, very strong).
+
+5. normal ==> includes lowercase characters and digits.
+   strong ==> includes lowercase, uppercase characters and digits.
+   very strong ==> includes lowercase, uppercase, special characters and digits.
+
+5. Import 'random' library then select random characters from the above 4 string variables and strore it in a 
+   seperate variable as per the user-defined length of the password.
+
+6. Check if the password contains all the required characters as per the user-defined strength.
+
+7. Print the password.
